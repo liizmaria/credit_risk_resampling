@@ -47,7 +47,8 @@ Before running the application it is necessary to install the following dependen
 
 To use the application you will need to clone the repo into your machine, navigate on terminal into it and open your [Jupyter Lab](https://github.com/jupyter/notebook) to run the file **credit_risk_resampling.ipynb**. 
 
-Bellow you can find a brief summary of the data collected through the analysis for the forecasts (daily, weekly, yearly and trend) .
+Bellow you can find a brief summary of the data collected through the analysis so we can see the difference between Imbalanced report for the Original Data and the same report for the Resampled Data.
+
 ![Imbalanced Report Comparison](Snippets/imbalanced_report_comparison.png) 
 
 ---
